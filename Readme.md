@@ -3,4 +3,4 @@ Rules:
 conda create -p venv python==3.12
 2. Create a requirements.txt 
 touch requirements.txt
-3. 
+
